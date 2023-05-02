@@ -1,0 +1,13 @@
+import React from 'react';
+import logo from './logo.svg';
+import './static/css/App.css';
+
+const Home = () => {
+
+    return (
+
+        <p>ADAM HAS NO BALLS</p>
+    )
+}
+
+export default Home;
