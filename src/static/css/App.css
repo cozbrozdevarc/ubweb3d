@@ -1,0 +1,17 @@
+html {
+
+    max-height: fit-content;
+}
+
+body {
+	background-image: url("../imgs/background.svg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+    margin: 10px auto;   
+}
+
+#title {
+	text-align: center;
+}

@@ -1,0 +1,8 @@
+tbody td:last-child {
+    font-size: 1.5em;
+  }
+  
+  tbody td:last-child i {
+    color: #ff9800;
+  }
+  

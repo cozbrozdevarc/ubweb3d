@@ -1,0 +1,33 @@
+/* html {
+
+    height: 100%;
+    background-image: url("../imgs/background.svg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+} */
+
+html {
+
+    max-height: fit-content;
+}
+
+body {
+	background-image: url("../imgs/background.svg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+    margin: 10px auto;   
+}
+
+.ordershtuff {
+	text-align: center;
+}
+#orderli {
+	text-align: center;
+}
+
+.orderform, input, select, option, .submission {
+    font-size: 2rem;
+}
